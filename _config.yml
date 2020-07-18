@@ -3,7 +3,7 @@ url: "https://ynot0625.github.io"
 baseurl: ""
 github_repo: "https://github.com/ynot0625/ynot0625.github.io/"
 
-title: One world
+title: Ynot
 description: Projects, maps & coding
 
 wordspermin: 180.0
@@ -28,16 +28,16 @@ navbar-links:
   Gallery: "gallery"
   View on Github: "https://github.com/ynot0625/ynot0625.github.io"
 
-avatar: "/assets/img/avatar-icon.jpg"
+  #avatar: "/assets/img/avatar-icon.jpg"
 
 # --- Background colour/image options --- #
-navbar-col: "#008080"
+navbar-col: "#CEEDEB"
 navbar-text-col: "#FFFFFF"
 navbar-children-col: "#00A0A0"
 page-col: "#FFFFFF"
-link-col: "#008080"
+link-col: "#CEEDEB"
 hover-col: "#DBE9E9"
-footer-col: "#008080"
+footer-col: "#CEEDEB"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#15403F"
 background-light-col: "#F3F8F8"
