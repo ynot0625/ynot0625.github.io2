@@ -1,9 +1,11 @@
----
-title: "서울의 대기질 Part1: 측정소"
-author: "YJunKim"
-date: '2020 7 18 '
-output: html_document
----
+layout: post
+title: Leaflet, R, Markdown, Jekyll and GitHub
+subtitle: Make it work in 6 steps - a short tutorial
+tags: [R,leaflet,Jekyll, html, maps]
+linktormd: true
+leafletmap: true
+always_allow_html: yes
+output: github_document
 
 
 
