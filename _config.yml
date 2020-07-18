@@ -1,7 +1,7 @@
 # --- General options --- #
-url: "https://dieghernan.github.io"
+url: "https://ynot0625.github.io"
 baseurl: ""
-github_repo: "https://github.com/dieghernan/dieghernan.github.io/"
+github_repo: "https://github.com/ynot0625/ynot0625.github.io/"
 
 title: One world
 description: Projects, maps & coding
@@ -22,11 +22,11 @@ navbar-links:
     - Archive: "archive"
   Projects:
     - All: "projects"
-    - COVID19 in Spain Microsite: "https://dieghernan.github.io/COVID19/"
-    - Country Codes & Organizations: "https://dieghernan.github.io/Country-Codes-and-International-Organizations/"
-    - Textwatch Clima: "https://dieghernan.github.io/TextWatchClima/"
+    - COVID19 in Spain Microsite: "https://ynot0625.github.io/COVID19/"
+    - Country Codes & Organizations: "https://ynot0625.github.io/Country-Codes-and-International-Organizations/"
+    - Textwatch Clima: "https://ynot0625.github.io/TextWatchClima/"
   Gallery: "gallery"
-  View on Github: "https://github.com/dieghernan/dieghernan.github.io"
+  View on Github: "https://github.com/ynot0625/ynot0625.github.io"
 
 avatar: "/assets/img/avatar-icon.png"
 
@@ -44,16 +44,16 @@ background-light-col: "#F3F8F8"
 
 # --- Footer options --- #
 author:
-  name: dieghernan
+  name: YJ.KIM
 
 social-network-links:
   rss: true
-  stackoverflow: 7877917/dieghernan
-  github: dieghernan
-  carto: dieghernan
-  reddit: dieghernan
-  rpubs: dieghernan
-  wikicommons: dieghernan84
+  stackoverflow: 7877917/ynot0625
+  github: ynot0625
+  carto: ynot0625
+  reddit: ynot0625
+  rpubs: ynot0625
+  wikicommons: ynot062584
 
 share-links-active:
   twitter: true
@@ -65,7 +65,7 @@ google_analytics: "UA-139034853-1"
 
 
 # --- Comments --- #
-disqus: dieghernan
+disqus: ynot0625
 
 excerpt_length: 10
 
@@ -75,7 +75,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Madrid"
+timezone: "Asia/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year:month_:title/
@@ -95,8 +95,8 @@ defaults:
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-      share-img: https://dieghernan.github.io/assets/img/headerblog.png
-      postedby: dieghernan
+      share-img: https://ynot0625.github.io/assets/img/headerblog.png
+      postedby: ynot0625
       includeonfeed: true
   -
     scope:
@@ -104,7 +104,7 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
-      share-img: https://dieghernan.github.io/assets/img/headerblog.png
+      share-img: https://ynot0625.github.io/assets/img/headerblog.png
       date: 2001-01-01
       includeonfeed: true
   -
@@ -126,7 +126,7 @@ exclude:
 
 # prose.io config
 prose:
-  siteurl: 'https://dieghernan.github.io/'
+  siteurl: 'https://ynot0625.github.io/'
   rooturl: '_posts'
   media: 'img'
   ignore:
