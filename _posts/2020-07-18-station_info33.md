@@ -12,7 +12,7 @@
 
 <!--html_preserve-->
 
-<div id="htmlwidget-03fbc87ac9a803c0778a" class="leaflet html-widget" style="width:672px;height:480px;">
+<div id="htmlwidget-03fbc87ac9a803c0778a" class="leaflet html-widget" style="width:100%;height:480px;">
 
 </div>
 
