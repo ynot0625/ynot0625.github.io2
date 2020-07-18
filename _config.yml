@@ -3,7 +3,7 @@ url: "https://ynot0625.github.io"
 baseurl: ""
 github_repo: "https://github.com/ynot0625/ynot0625.github.io/"
 
-title: Ynot
+title: Ynot?
 description: Projects, maps & coding
 
 wordspermin: 180.0
@@ -47,18 +47,18 @@ author:
   name: YJ.KIM
 
 social-network-links:
-  rss: true
-  stackoverflow: 7877917/ynot0625
+  #  rss: true
+  #  stackoverflow: 7877917/ynot0625
   github: ynot0625
-  carto: ynot0625
-  reddit: ynot0625
-  rpubs: ynot0625
-  wikicommons: ynot062584
+  #  carto: ynot0625
+  #  reddit: ynot0625
+  #rpubs: ynot0625
+  #wikicommons: ynot062584
 
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+        #twitter: true
+        #  facebook: true
+        #  linkedin: true
 
 # --- Web Statistics Section --- #
 google_analytics: "UA-139034853-1"
