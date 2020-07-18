@@ -31,13 +31,13 @@ navbar-links:
   #avatar: "/assets/img/avatar-icon.jpg"
 
 # --- Background colour/image options --- #
-navbar-col: "#CEEDEB"
+navbar-col: "#76D3C9"
 navbar-text-col: "#FFFFFF"
 navbar-children-col: "#00A0A0"
 page-col: "#FFFFFF"
-link-col: "#CEEDEB"
+link-col: "#76D3C9"
 hover-col: "#DBE9E9"
-footer-col: "#CEEDEB"
+footer-col: "#76D3C9"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#15403F"
 background-light-col: "#F3F8F8"
